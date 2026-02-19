@@ -3,7 +3,6 @@ import LoginForm from "@/components/forms/LoginForm";
 export default function LoginPage() {
   return (
     <main className="login-shell">
-      <div className="login-topbar" />
       <section className="login-content">
         <div className="login-card">
           <div className="login-logo" aria-label="Asceoft">

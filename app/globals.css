@@ -105,12 +105,6 @@ body {
   background: var(--bg);
 }
 
-.login-topbar {
-  height: 8px;
-  background: #23373c;
-  width: 100%;
-}
-
 .login-content {
   flex: 1;
   display: flex;
